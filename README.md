@@ -1,4 +1,4 @@
-# California Housing Price Analysis & Prediction
+# California Housing: Analysis, Insights & Linear Regression Modeling
 
 ## Project Overview
 This project explores the key factors influencing housing prices in California through exploratory data analysis (EDA),data visualization and feature engineering, culminating in a **Linear Regression model** to predict property values.

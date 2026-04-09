@@ -28,4 +28,4 @@ The dataset is sourced from the [Kaggle California Housing Dataset](https://www.
 
 ## Author
 **Mostafa Alderawi**
-[LinkedIn](www.linkedin.com/in/mostafa-alderawi)
+[LinkedIn](https://www.linkedin.com/in/mostafa-alderawi)
